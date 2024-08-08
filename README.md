@@ -8,7 +8,7 @@
           <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
           </div>
 
-팀원 소개
+팀원 소개<br/>
 |이름|
 |---|---|
 | 임지환 | 
@@ -16,7 +16,7 @@
 | 이윤민 | 
 | 송지윤 | 
 | 이은조 | 
-
+<br/>
 
 
 주요 기능 & 기술
