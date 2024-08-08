@@ -8,7 +8,7 @@
           <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
           </div>
 <br/><br/>
-#팀원 소개<br/>
+# 팀원 소개<br/>
 |이름|<br/>
 |---|<br/>
 | 임지환 | <br/>
