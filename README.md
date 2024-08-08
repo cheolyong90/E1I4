@@ -7,8 +7,8 @@
           <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
           </div>
-
-팀원 소개<br/><br/>
+<br/><br/>
+팀원 소개<br/>
 |이름|<br/>
 |---|---|<br/>
 | 임지환 | <br/>
@@ -16,7 +16,7 @@
 | 이윤민 | <br/>
 | 송지윤 | <br/>
 | 이은조 | <br/>
-<br/>
+<br/><br/>
 
 
 주요 기능 & 기술
