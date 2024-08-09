@@ -15,7 +15,7 @@
           <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">        
           </div>
 
-# 팀원 소개
+# E1I4팀 소개
 |이름|역할|
 |---|---|
 | 임지환 | 팀장 |
